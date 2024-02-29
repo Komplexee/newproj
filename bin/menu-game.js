@@ -1,5 +1,2 @@
 #!/usr/bin/env node
-
-import greetUser from '../src/cli.js';
-
-greetUser();
+console.log('Если хотите поиграть в НООООООООК - Пишите brain-scm \nЕсли хотите поиграть в Прогрессию - Пишите brain-progression');
